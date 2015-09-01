@@ -1,2 +1,2 @@
-this is my second git test£¬
-hello git my friend.
+this is my third git test£¬
+hello git my old friend.
